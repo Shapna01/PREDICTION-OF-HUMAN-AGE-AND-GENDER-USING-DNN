@@ -1,4 +1,4 @@
-# PREDICTION-OF-HUMAN-AGE-AND-GENDER-USING-DNN
+# Age-And-Gender-Prediction
 Projede; gerçek zamanlı kamera görüntüsü ya da fotoğraflarda ki yüzler tespit edilip, derin öğrenme algoritmaları kullanılarak yaş ve cinsiyet tahmini yapılıyor.
 
 Kodlar Adrian Rosebrock'un 'OpenCV Age Detection with Deep Learning' projesine dayanır. Proje geliştirilip cinsiyet tahmini eklenmiştir. 
